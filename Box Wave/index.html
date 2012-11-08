@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+	<head>
+
+		<style type="text/css">
+			* {
+				margin: 0;
+				border: 0 none;
+				padding:; 0;
+			}
+			#container {
+				background: #CCCCCC;
+				position: absolute;
+				top:0;
+				left:0;
+			}
+
+			#stats {
+				position: absolute;
+				top:0px;
+			}
+			#hud {
+				float: right;
+				position: relative;
+				text-align: right;
+				font-size: 32px;
+				color:#0000000;
+			}
+		</style>
+	</head>
+	<title>Three.js - Box Wave</title>
+	<body>
+		
+		<div id="container"></div>
+		<div id="hud">TEST</div>
+
+		<!-- JavaScript at the bottom for fast page loading -->
+		<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.4.min.js"><\/script>')</script>
+		<script type="text/javascript" src="js/libs/Three.js"></script>
+		<script type="text/javascript" src="js/libs/Stats.js"></script>
+		<script type="text/javascript" src="js/libs/perlin-noise.js"></script>
+		<script type="text/javascript" src="js/utils.js"></script>
+		<script type="text/javascript" src="js/views.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+		<!-- scripts concatenated and minified via build script -->
+	</body>
+</html>

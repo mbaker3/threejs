@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inn",
+				"innerHeight  (variable)"
+			],
+			[
+				"sub",
+				"subSelf"
+			],
+			[
+				"update",
+				"updateGrid"
+			],
+			[
+				"setup",
+				"setupBoxes"
+			],
+			[
+				"render",
+				"renderer"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"P",
+				"PERLIN_SCALE"
+			],
+			[
+				"COnst",
+				"CONST"
+			],
+			[
+				"GR",
+				"GRID_SUBDIVS"
+			],
+			[
+				"GRI",
+				"GRID_OPACITY"
+			],
+			[
+				"create",
+				"createGrid"
+			],
+			[
+				"grid",
+				"gridColor"
+			],
+			[
+				"Mesh",
+				"MeshLambertMaterial"
+			],
+			[
+				"orbit",
+				"orbitPosition"
+			],
+			[
+				"sp",
+				"sphere"
+			],
+			[
+				"Poin",
+				"pointLight"
+			],
+			[
+				"s",
+				"src"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 2304,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/views.js",
+			"settings":
+			{
+				"buffer_size": 4631,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 231.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/teambuy/Winnipeg - HangGlide/winnipeg_contest/index.html",
+		"/C/Users/mbaker/Desktop/index_a.html",
+		"/C/Users/mbaker/SublimeProjects/html5/threejs/index.html",
+		"/C/Users/mbaker/SublimeProjects/html5/threejs/js/utils.js",
+		"/C/Users/mbaker/SublimeProjects/html5/threejs/js/libs/Three.js",
+		"/C/Users/mbaker/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/C/Users/mbaker/SublimeProjects/html5/threejs/js/libs/perlin-noise.js",
+		"/C/Users/mbaker/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/mbaker/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mbaker/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"camera",
+			"Collision"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 2304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								808,
+								808
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false,
+							"wrap_width": 80
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/views.js",
+					"settings":
+					{
+						"buffer_size": 4631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3602,
+								3602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1674.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
